@@ -11,7 +11,7 @@ All objectives and instructions for the project can be found here:
 - **Frontend:** React, Vite, CSS
 - **Build Tool:** Vite
 - **Deployment:** GitHub Pages
-=======
+
 # js-calculator
 FCC JavaScript Calculator
 >>>>>>> 874418b45318abe990c75c248f4a28281177dfc6
