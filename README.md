@@ -8,9 +8,9 @@ All objectives and instructions for the project can be found here:
 [FreeCodeCamp Project Instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator)
 
 ## Technologies Used
-Frontend: React, Vite, CSS
-Build Tool: Vite
-Deployment: GitHub Pages / Netlify
+- **Frontend:** React, Vite, CSS
+- **Build Tool:** Vite
+- **Deployment:** GitHub Pages
 =======
 # js-calculator
 FCC JavaScript Calculator
